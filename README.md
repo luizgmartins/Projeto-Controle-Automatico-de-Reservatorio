@@ -72,6 +72,11 @@ Outras imagens podem ser vistas [aqui](https://github.com/luizgmartins/Projeto-C
 [![](https://github.com/luizgmartins/Projeto-Controle-Automatico-de-Reservatorio/blob/main/Imagens/prototipo.png)](https://drive.google.com/file/d/1FAYSTIJthaAiTjAwnbXQABfiS1m8jAsw/view?usp=sharing)
 
 ----------------------------
+## Complemento
+
+As bibliotecas adicionais utilizados na IDE do arduino, o modelo do esquemático do circuito e da PCB criados no programa Proteus e os vídeos vistos anteriormente com a autoria das músicas de fundo podem ser encontrados [aqui](https://drive.google.com/drive/u/0/folders/12Dj7j2PZ2Z237pOC_OY5hMqp01GqWVkK).
+
+----------------------------
 ## Observações
 
 * Em alguns momentos a conexão com o módulo bluetooth apresentaram algumas falhas. Desde demora na conexão através do app até um certo delay de algumas funções do app. Isso pode ter sido atribuído ao app que possuia na época um sistema BETA para o módulo bluetooth ou até mesmo a utilização do sensor de fluxo que necessitava do uso de um pino de interrupção do arduino. No caso o sistema poderia estar demorando um pouco para envio de informações para o app. Como em grande parte dos testes o sistema não apresentou falhas não foram feitas mudanças.
