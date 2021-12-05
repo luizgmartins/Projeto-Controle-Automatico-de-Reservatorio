@@ -43,15 +43,15 @@ O esquemático do circuito se encontra [Aqui](https://github.com/luizgmartins/Pr
 ----------------------------
 **App**
 <div align="center">
-<img src="https://github.com/luizgmartins/Projeto-Controle-Automatico-de-Reservatorio/blob/main/Imagens/App.jpg" align="left" height="320" />
-<img src="https://github.com/luizgmartins/Projeto-Controle-Automatico-de-Reservatorio/blob/main/Imagens/app2.png" align="right" height="270" />
+<img src="https://github.com/luizgmartins/Projeto-Controle-Automatico-de-Reservatorio/blob/main/Imagens/App.jpg" height="320" />
+<img src="https://github.com/luizgmartins/Projeto-Controle-Automatico-de-Reservatorio/blob/main/Imagens/app2.png" height="320" />
 </div>
 
 --------------------------------------------------------
 **Protótipo**
 <div align="center">
 <img src="https://github.com/luizgmartins/Projeto-Controle-Automatico-de-Reservatorio/blob/main/Imagens/Prototipo%20(1).jpg" height="300" />
-<img src="https://github.com/luizgmartins/Projeto-Controle-Automatico-de-Reservatorio/blob/main/Imagens/Prototipo%20(4).jpg" height="270" />
+<img src="https://github.com/luizgmartins/Projeto-Controle-Automatico-de-Reservatorio/blob/main/Imagens/Prototipo%20(4).jpg" height="300" />
 </div>
 
 Outras imagens podem ser vistas [Aqui](https://github.com/luizgmartins/Projeto-Controle-Automatico-de-Reservatorio/tree/main/Imagens).
